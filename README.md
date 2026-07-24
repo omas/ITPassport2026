@@ -52,6 +52,6 @@ ITパスポート試験は，IT系国家資格の中では比較的やさしい�
 
 - [検索ワード:NotebookLM](https://notebooklm.google.com/?pli=1)
 - [検索ワード:ITパスポート シラバス](https://www.ipa.go.jp/shiken/syllabus/omgdg50000005kn1-att/syllabus_ip_ver6_5.pdf)
-- [検索ワード:itパスポート 過去問題](https://www3.jitec.ipa.go.jp/JitesCbt/html/openinfo/questions.html)
-- [検索ワード: youtube ITすきま教室](https://www.youtube.com/playlist?list=PLhThj1C8DuL1rPuW4n1dnMRbKbbg2bkHv)
+- [検索ワード:itパスポート 過去問題](https://www.itpassportsiken.com/ipkakomon.php)
+- [検索ワード:youtube ITすきま教室](https://www.youtube.com/playlist?list=PLhThj1C8DuL1rPuW4n1dnMRbKbbg2bkHv)
 - [検索ワード: ITパスポート試験 用語 聞き流し](https://www.google.com/search?sca_esv=fceb843c354c3062&sxsrf=APpeQnucd5PMVGNfKF9Yn92j2wnfjJGCYQ%3A1784876935230&q=IT%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E8%A9%A6%E9%A8%93+%E7%94%A8%E8%AA%9E+%E8%81%9E%E3%81%8D%E6%B5%81%E3%81%97&source=lnms&fbs=ABfTbFVk7RrhnGMfhsnciET3dA69YRWth9rwmkbHg2YbUvBzsWYQ426cppeTto5vp0XrUx4sJ-swehKx8RrIFZuoRxS_oOL2uSzTd9CX3aQlFBI9rNYCecJTeuQ62nlrR0S0Xr18KvwKDenRMY2kA7KpJI6mg22mQqrLqHnB-Zz54Ahg486DHP8jqbwBSEbhZJuqBlWvB61zrQkgPX88MLNU4eIlGNCIuc0BLNNQCQBuiSyP-uodqkLwtRhwEup5Er0BXbZORnzY&sa=X&ved=2ahUKEwifrMTd4OqVAxX6slYBHY9CJucQ0pQJegQIChAB&biw=1236&bih=641&dpr=1.5)
