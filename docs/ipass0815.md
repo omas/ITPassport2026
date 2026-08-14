@@ -1,0 +1,454 @@
+# 第二回 ITパスポート講座 in IT College Okinawa
+
+## [ストラテジ分野 概要](https://www.youtube.com/watch?v=Eq2KEus7Qus)
+
+## [ストラテジ分野 最重要用語](./glossary/strategy.md)
+
+- [] 経営理念
+- [] MVV (Mission, Vision, Value)
+- [] 人的資本経営
+- [] パーパス経営
+- [] 2CSR (Corporate Social Responsibility)
+- [] SDGs (Sustainable Development Goals)
+- [] ESG経営
+- [] コーポレートガバナンス
+- [] コンプライアンス
+- [] 内部統制
+- [] BCP (Business Continuity Plan)
+- [] CEO / CIO / CISO
+- [] 職能別組織
+- [] 事業部制組織
+- [] Society 5.0
+- [] デジタルトランスフォーメーション (DX)
+- [] 株主総会
+- [] 決算
+- [] SRI (Socially Responsible Investment)
+- [] BCM (Business Continuity Management)
+- [] OJT (On-the-Job Training)
+- [] Off-JT (Off-the-Job Training)
+- [] アダプティブラーニング
+- [] HRテック
+- [] ワークライフバランス
+- [] マトリックス組織
+- [] プロジェクト組織
+- [] 職務分掌
+- [] PDCA (Plan-Do-Check-Act)
+- [] 監査役
+- [] グリーン IT
+- [] カーボンフットプリント
+- [] ゼロエミッション
+- [] ステークホルダ
+- [] ディスクロージャ
+- [] コーポレートブランド
+- [] OODAループ
+- [] e-ラーニング (e-Learning)
+- [] リスキリング
+- [] CDP (Career Development Program)
+- [] メンタルヘルス
+- [] MBO (Management by Objectives)
+- [] HRM (Human Resource Management)
+- [] リテンション
+- [] タレントマネジメント
+- [] ワークエンゲージメント
+- [] DE&I (Diversity, Equity & Inclusion)
+- [] コンティンジェンシー理論
+- [] シェアードリーダーシップ
+- [] サーバントリーダーシップ
+- [] ワーケーション
+- [] インバスケット
+- [] ロールプレイング
+- [] ケーススタディ
+- [] グラスシーリング
+- [] ホワイトカラーエグゼンプション
+- [] 階層型組織
+- [] カンパニー制
+- [] アメーバ組織
+- [] ネットワーク組織
+- [] 持株会社
+- [] 第4次産業革命
+- [] 超スマート社会
+- [] データ駆動型社会
+- [] グリーントランスフォーメーション (GX)
+- [] カーボンニュートラル (Carbon Neutral)
+- [] 国家戦略特区
+- [] 官民データ活用推進基本法
+- [] デジタル社会形成基本法
+- [] パレート図
+- [] ABC分析
+- [] ビッグデータ
+- [] 特性要因図
+- [] 回帰分析
+- [] レーダーチャート
+- [] ヒストグラム
+- [] 親和図法 (KJ法) (Affinity Diagram / KJ Method)
+- [] 散布図
+- [] A/Bテスト (A/B Testing)
+- [] BI (Business Intelligence)
+- [] データウェアハウス
+- [] データマイニング
+- [] テキストマイニング
+- [] データサイエンティスト
+- [] 管理図
+- [] 決定木 (デシジョンツリー)
+- [] ブレーンストーミング
+- [] フィールドワーク
+- [] 系統図
+- [] 最小二乗法
+- [] 疑似相関
+- [] マトリックス図
+- [] 箱ひげ図
+- [] ヒートマップ
+- [] モザイク図
+- [] クロス集計表
+- [] ロジックツリー
+- [] CSV（Comma-Separated Values）
+- [] GISデータ
+- [] 母集団
+- [] 標本抽出
+- [] 仮説検定
+- [] 第1種の誤り
+- [] 第2種の誤り
+- [] 統計的バイアス
+- [] 認知バイアス
+- [] 売上総利益
+- [] 損益分岐点 (Break-even Point / BEP)
+- [] 貸借対照表 (Balance Sheet / B/S)
+- [] 損益計算書 (Profit and Loss Statement / P/L)
+- [] ROI (Return on Investment)
+- [] 適格請求書等保存方式
+- []# 営業利益
+- [] 経常利益
+- [] 変動費
+- [] 固定費
+- [] キャッシュフロー計算書 (Cash Flow Statement / C/F)
+- [] 流動比率 (Current Ratio)
+- [] 株主資本等変動計算書
+- [] 連結財務諸表
+- [] 総勘定元帳
+- [] 著作権法
+- [] 特許法
+- [] 商標法
+- [] 不正競争防止法
+- [] 営業秘密
+- [] 実用新案法
+- [] 意匠法 (Design Law)
+- [] トレードマーク/ サービスマーク
+- [] 著作者人格権
+- [] 著作財産権
+- [] ボリュームライセンス契約
+- [] サイトライセンス契約
+- [] サブスクリプション (Subscription)
+- [] CAL (Client Access License)
+- [] フリーソフトウェア / シェアウェア
+- [] ビジネスモデル特許
+- [] パブリックドメイン (Public Domain)
+- [] クリエイティブコモンズ (Creative Commons)
+- [] アクティベーション
+- [] クロスライセンス
+- [] 不正アクセス禁止法
+- [] 個人情報保護法
+- [] 要配慮個人情報
+- [] マイナンバー法
+- [] ウイルス作成罪
+- [] サイバーセキュリティ基本法
+- [] 個人識別符号
+- [] 匿名加工情報
+- [] オプトイン (Opt-in) / オプトアウト (Opt-out)
+- [] システム管理基準
+- [] プロバイダ責任制限法
+- [] 特定電子メール法
+- [] 労働者派遣法
+- [] 請負契約
+- [] 準委任契約
+- [] 偽装請負
+- [] 製造物責任法 (PL Law)
+- [] 労働基準法
+- [] 36協定
+- [] フレックスタイム制
+- [] 裁量労働制
+- [] 特定商取引法
+- [] 独占禁止法
+- [] 資金決済法
+- [] コンプライアンス
+- [] コーポレートガバナンス
+- [] 公益通報者保護法
+- [] 内部統制報告制度
+- [] 廃棄物処理法
+- [] リサイクル法
+- [] GX推進法
+- [] ネチケット
+- [] 情報流通プラットフォーム
+- [] ソーシャルメディアポリシー
+- [] フェイクニュース
+- [] チェーンメール
+- [] ヘイトスピーチ
+- [] エコーチェンバー
+- [] フィルターバブル
+- [] デジタルタトゥー
+- [] ファクトチェック
+- [] 倫理的・法的・社会的な課題
+- [] 情報公開法
+- [] 2.5 標準化関連（全19用語）
+- [] ISO/IEC 27000 シリーズ (ISO/IEC 27000 Series)
+- [] ISO (International Organization for Standardization)
+- [] ISO 9000 シリーズ (ISO 9000 Series)
+- [] ISO 14000 シリーズ (ISO 14000 Series)
+- [] デファクトスタンダード
+- [] デジュレスタンダード
+- [] QRコード
+- [] ISO/IEC 30414
+- [] JIS Q 31000 (Risk Management)
+- [] JIS (Japanese Industrial Standards)
+- [] JANコード (Japanese Article Number)
+- [] フォーラム標準
+- [] ISBN (International Standard Book Number)
+- [] IEC (International Electrotechnical Commission)
+- [] IEEE (Institute of Electrical and Electronics Engineers)
+- [] W3C (World Wide Web Consortium)
+- [] IETF (Internet Engineering Task Force)
+- [] ISO 26000
+- []  JIS Q 38500 (IT Governance)
+- [] SWOT分析 (Strengths, Weaknesses, Opportunities, Threats Analysis)
+- [] PPM (Product Portfolio Management)
+- [] 3C分析 (Customer, Competitor, Company Analysis)
+- [] M&A (Mergers and Acquisitions)
+- [] コアコンピタンス
+- [] ベンチマーキング
+- [] ニッチ戦略
+- [] ブルーオーシャン戦略
+- [] アライアンス
+- [] アウトソーシング
+- [] OEM (Original Equipment Manufacturing)
+- [] ファブレス
+- [] 規模の経済
+- [] 経験曲線
+- [] コモディティ化
+- [] ESG投資
+- [] VRIO分析
+- [] 同質化戦略
+- [] エコシステム
+- [] フランチャイズチェーン
+- [] MBO (Management Buyout)
+- [] EBO (Employee Buyout)
+- [] TOB (Takeover Bid)
+- [] 垂直統合 (Vertical Integration)
+- [] 水平統合
+- [] ロジスティクス
+- [] カニバリゼーション
+- [] ファイブフォース分析
+- [] 4P (Product, Price, Place, Promotion)
+- [] オムニチャネル
+- [] SEO (Search Engine Optimization)
+- [] アフィリエイト
+- [] レコメンデーション
+- [] 4C (Customer Value, Customer Cost, Convenience,Communication)
+- [] ポジショニング
+- [] ワントゥワンマーケティング
+- [] リスティング広告
+- [] アンゾフの成長マトリクス
+- [] プロダクトライフサイクル
+- [] UX (User Experience)
+- [] CX (Customer Experience)
+- [] ダイナミックプライシング
+- [] カスタマージャーニーマップ
+- [] RFM分析
+- [] オピニオンリーダー
+- [] ブランド戦略
+- [] セグメントマーケティング
+- [] ダイレクトマーケティング
+- [] クロスメディアマーケティング
+- [] インバウンドマーケティング
+- [] ロケーションベースマーケティング
+- [] ソーシャルマーケティング
+- [] プッシュ戦略
+- [] プル戦略
+- [] Webマーケティング
+- [] インターネット広告
+- [] オプトインメール広告
+- [] バナー広告
+- [] デジタルサイネージ
+- [] スキミングプライシング
+- [] ペネトレーションプライシング
+- [] リテールサポート
+- [] クロスセリング
+- [] バスケット分析
+- [] バランススコアカード (BSC: Balanced Scorecard)
+- [] CSF (Critical Success Factor)
+- [] KPI (Key Performance Indicator)
+- [] KGI (Key Goal Indicator)
+- [] バリューエンジニアリング (Value Engineering / VE)
+- [] GROWモデル
+- [] KPIツリー
+- [] SMART (SMART Criteria)
+- [] SECIモデル
+- [] CRM (Customer Relationship Management)
+- [] SCM (Supply Chain Management)
+- [] ナレッジマネジメント
+- [] TQC (Total Quality Control)
+- [] ERP (Enterprise Resource Planning)
+- [] TQM (Total Quality Management)
+- [] シックスシグマ
+- [] TOC (Theory of Constraints)
+- [] バリューチェーンマネジメント
+- [] 技術ロードマップ
+- [] APIエコノミー
+- [] MOT (Management of Technology)
+- [] プロダクトイノベーション
+- [] プロセスイノベーション
+- [] イノベーションのジレンマ
+- [] オープンイノベーション
+- [] キャズム
+- [] ハッカソン
+- [] 死の谷
+- [] ダーウィンの海
+- [] デザイン思考
+- [] 魔の川
+- [] ペルソナ法
+- [] PoC (Proof of Concept)
+- [] PoV (Proof of Value)
+- [] バックキャスティング
+- [] ビジネスモデルキャンバス
+- [] リーンスタートアップ
+- [] ベンチャーキャピタル (Venture Capital / VC)
+- [] コーポレートベンチャーキャピタル (Corporate Venture Capital /CVC)
+- [] デルファイ法
+- [] POS (Point of Sales)
+- [] トレーサビリティ
+- [] デジタルツイン
+- [] AI (Artificial Intelligence)
+- [] マイナンバー
+- [] GPS (Global Positioning System)
+- [] GIS (Geographic Information System)
+- [] ETC (Electronic Toll Collection)
+- [] RFID (Radio Frequency Identification)
+- [] SFA (Sales Force Automation)
+- [] スマートグリッド
+- [] サイバーフィジカルシステム (CPS: Cyber Physical System)
+- [] マイナポータル
+- [] AIアシスタント
+- [] ITS (Intelligent Transport Systems)
+- [] セルフレジ
+- [] CTI (Computer Telephony Integration)
+- [] CDN (Content Delivery Network)
+- [] デジタルガバメント
+- [] ガバメントクラウド
+- [] ベースレジストリ
+- [] マイナンバーカード
+- [] 緊急速報
+- [] Jアラート
+- [] DTP (Desktop Publishing)
+- [] 人間中心のAI社会原則
+- [] AI利活用ガイドライン
+- [] 特化型AI
+- [] 汎用AI
+- [] 生成AI
+- [] マルチモーダルAI
+- [] 説明可能なAI
+- [] ヒューマンインザループ
+- [] ハルシネーション
+- [] ディープフェイク
+- [] AIサービスのオプトアウト
+- [] アルゴリズムのバイアス
+- [] トロッコ問題
+- [] JIT (Just In Time)
+- [] CAD (Computer Aided Design)
+- [] コンカレントエンジニアリング
+- [] かんばん方式
+- [] リーン生産方式
+- [] CAM (Computer Aided Manufacturing)
+- [] シミュレーション
+- [] センシング技術
+- [] FMS (Flexible Manufacturing System)
+- [] MRP (Material Requirements Planning)
+- [] CIM (Computer Integrated Manufacturing)
+- [] ロングテール (Long Tail)
+- [] サブスクリプション (Subscription)
+- [] EDI (Electronic Data Exchange)
+- [] NFT (Non-Fungible Token)
+- [] エスクローサービス
+- [] O2O (Online to Offline)
+- [] OMO (Online Merges with Offline)
+- [] フィンテック (FinTech)
+- [] クラウドファンディング
+- [] 電子マネー
+- [] クラウドソーシング
+- [] 暗号資産
+- [] eKYC (Electronic Know Your Customer)
+- [] フリーミアム
+- [] 無店舗販売
+- [] EC (Electronic Commerce)
+- [] BtoC / CtoC / BtoE
+- [] EFT (Electronic Funds Transfer)
+- [] キャッシュレス決済
+- [] 電子マーケットプレイス
+- [] オンラインモール
+- [] 電子オークション
+- [] インターネットバンキング
+- [] インターネットトレーディング
+- [] 中央銀行発行デジタル通貨 (CBDC)
+- [] アカウントアグリゲーション
+- [] デビットカード
+- [] IoT (Internet of Things)
+- [] ドローン
+- [] MaaS (Mobility as a Service)
+- [] 自動運転
+- [] CASE
+- [] クラウドサービス
+- [] スマートシティ
+- [] スマートファクトリー
+- [] スマート農業 (アグリテック)
+- [] インダストリー 4.0 (Industry 4.0)
+- [] コネクテッドカー
+- [] ワイヤレス給電
+- [] マシンビジョン
+- [] HEMS (Home Energy Management System)
+- [] 組込みシステム (Embedded Systems)
+- [] ロボティクス
+- [] ファームウェア (Firmware)
+- [] EA (Enterprise Architecture)
+- [] SoR (Systems of Record)
+- [] SoE (Systems of Engagement)
+- [] エンタープライズサーチ
+- [] RPA (Robotic Process Automation)
+- [] BYOD (Bring Your Own Device)
+- [] M2M (Machine to Machine)
+- [] テレワーク
+- [] シェアリングエコノミー
+- [] DFD (Data Flow Diagram)
+- [] BPR (Business Process Re-engineering)
+- [] BPM (Business Process Management)
+- [] ワークフローシステム
+- [] グループウェア
+- [] BPMN (Business Process Model and Notation)
+- [] ライフログ
+- [] 情報銀行
+- [] PDS (Personal Data Store)
+- [] ブログ (Blog) / チャット (Chat) / SNS (Social Networking Service)
+- [] クラウドコンピューティング
+- [] SaaS (Software as a Service)
+- [] IaaS (Infrastructure as a Service)
+- [] PaaS (Platform as a Service)
+- [] オンプレミス
+- [] ハウジングサービス
+- [] ホスティングサービス
+- [] システムインテグレーション (SI)
+- [] パブリッククラウド (Public Cloud) / プライベートクラウド (PrivateCloud)
+- [] ハイブリッドクラウド (Hybrid Cloud) / マルチクラウド (Multi-cloud)
+- [] マネジメントサービス
+- [] ASP (Application Service Provider)
+- [] DaaS (Desktop as a Service)
+- [] SOA (Service Oriented Architecture)
+- [] アウトソーシング
+- [] レガシーシステム
+- [] デジタルディバイド
+- [] ITリテラシー
+- [] ゲーミフィケーション
+- [] デジタルネイティブ
+- [] 企画プロセス
+- [] 要件定義プロセス
+- [] 機能要件
+- [] 非機能要件
+- [] 業務要件
+- [] RFI (Request for Information)
+- [] RFP (Request for Proposal)
+- [] グリーン調達
