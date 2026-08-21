@@ -116,7 +116,7 @@
 - [] 損益計算書 (Profit and Loss Statement / P/L)
 - [] ROI (Return on Investment)
 - [] 適格請求書等保存方式
-- []# 営業利益
+- [] 営業利益
 - [] 経常利益
 - [] 変動費
 - [] 固定費
