@@ -79,3 +79,8 @@ ITパスポート試験では過去に出た問題の類似問題が頻出しま
 
 - 今日間違えた問題を、明日、3日後、1週間後と間隔を空けて再挑戦する。
 - スムーズに解けるようになるまで、最低3〜5回は同じ模擬問題をループする
+
+## references
+
+- [ITパスポート過去問道場](https://www.itpassportsiken.com/ipkakomon.php)
+- [過去問 キーワード検索](https://college.coeteco.jp/itpassport/kakomon/)

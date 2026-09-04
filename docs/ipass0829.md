@@ -20,6 +20,11 @@ ITパスポート試験における「マネジメント系（IT管理）」は�
 合計                        2,000 件     100.0 %
 ```
 
+## references
+
+- [ITパスポート過去問道場](https://www.itpassportsiken.com/ipkakomon.php)
+- [過去問 キーワード検索](https://college.coeteco.jp/itpassport/kakomon/)
+
 ## [重要用語](./glossary/management.md)
 
 ### プロジェクトマネジメント
