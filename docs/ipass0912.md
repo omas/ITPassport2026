@@ -67,7 +67,10 @@ AI(NotebookLM)使って学習計画を立てましょう
 - 新しくNoteを作成し，最低限学習に必要なWebサイトを読み込ませる
   - [検索ワード:ITパスポート シラバス](https://www.ipa.go.jp/shiken/syllabus/omgdg50000005kn1-att/syllabus_ip_ver6_5.pdf)
   - [検索ワード:itパスポート 過去問題](https://www.itpassportsiken.com/ipkakomon.php)
-  - [重要用語](http://github.com/omas/ITPassport2026/glossary)
+  - 重要用語
+    - [ストラテジー分野](http://github.com/omas/ITPassport2026/docs/glossary/strategy.md)
+    - [マネジメント分野](http://github.com/omas/ITPassport2026/docs/glossary/management.md)
+    - [テクノロジ分野](http://github.com/omas/ITPassport2026/docs/glossarytechnology.md)
 - 以下のpromptを使用して学習計画を立ててもらう
 
 学習計画Prompt
