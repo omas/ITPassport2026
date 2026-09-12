@@ -177,4 +177,7 @@ AI(NotebookLM)使って学習計画を立てましょう
 - [Youtube せかちゃん](https://www.youtube.com/watch?v=jRchuWG6hRo&list=PLru8-xuz0YvzS5kdFg7LLDF8028ZIfJ8F)
 - [Youtube デジつよ](https://www.youtube.com/playlist?list=PLJHm0g3OoNnIkHRZ4iu29NL4HhOjwhXcu)
 - [Youtube ITすきま教室](https://www.youtube.com/playlist?list=PLhThj1C8DuL1rPuW4n1dnMRbKbbg2bkHv)
-- [ITPassport重要用語]
+- ITPassport重要用語
+  - [ストラテジー分野](http://github.com/omas/ITPassport2026/docs/glossary/strategy.md)
+  - [マネジメント分野](http://github.com/omas/ITPassport2026/docs/glossary/management.md)
+  - [テクノロジ分野](http://github.com/omas/ITPassport2026/docs/glossarytechnology.md)
